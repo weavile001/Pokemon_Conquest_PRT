@@ -34,7 +34,7 @@
   <Text ID="1f">{C1}Salvar o seu progresso?{End}</Text>
   <Text ID="20">{C1}The story will not be recorded as cleared if you do not save your progress. Continue?{End}</Text>
   <Text ID="21">{C1}A batalha foi vencida! Salvar progresso?{End}</Text>
-  <Text ID="22">{C1}Saving will not be possible from this point. Are you ready to continue?{End}</Text>
+  <Text ID="22">{C1}você não poderá salvar a partir desse ponto, continuar assim mesmo?{End}</Text>
   <Text ID="23">{Name2}{C1}'s army has appeared in |02,51,64{C1}'s kingdom of {Area}{C1}!{End}</Text>
   <Text ID="24">{Name2}{C1}'s army has challenged the kingdom of {Area}{C1} to battle!{End}</Text>
   <Text ID="25">{C1}There are no Warriors who can fight in {Area}{C1}!{End}</Text>
@@ -51,13 +51,13 @@
   <Text ID="30">{C1}You have reached the maximum permitted number of Warriors in this kingdom. Select a castle in which to deploy new recruits.{End}</Text>
   <Text ID="31">{C1}você não pode ir numa batalha sem {Name}{C1} and {Color:31}Oichi{Color:33}.{End}</Text>
   <Text ID="32">{C1}Try going into battle once {Name}{C1} and {Color:31}Oichi{Color:33} have been deployed in the same castle.{End}</Text>
-  <Text ID="33">{C1}recrutar {Name2}{C1} como um alado.{End}</Text>
+  <Text ID="33">{C1}recrutar  {Name2}{C1} como um alado.{End}</Text>
   <Text ID="34">{C1}Nenhum guerreiro foi selecionado. Continuar?{End}</Text>
-  <Text ID="35">{C1}Recrutar{Name2}{C1}?{End}</Text>
+  <Text ID="35">{C1}Recrutar {Name2}{C1}?{End}</Text>
   <Text ID="36">{C1}Recrutar {Name2}{C1} e outros?{End}</Text>
   <Text ID="37">{C1}At least one famous Warrior has not been selected. Continue?{End}</Text>
-  <Text ID="38">{C1}In which castle would you like to deploy {Color:31}|02,3c,64{C1}{Color:33}?{End}</Text>
-  <Text ID="39">{C1}{Color:31}|02,3c,64{C1}{Color:33} will be deployed in {Area}{C1}.{End}</Text>
+  <Text ID="38">{C1}em que castelo você gostaria de deixar {Color:31}|02,3c,64{C1}{Color:33}?{End}</Text>
+  <Text ID="39">{C1}{Color:31}|02,3c,64{C1}{Color:33} será deixado em {Area}{C1}.{End}</Text>
   <Text ID="3a">{C1}Você recrutou o numero maximo de guerreiros. Escolha um para dispensar.{End}</Text>
   <Text ID="3b">{C1}This time, all Warriors must be selected in order to go into battle.{End}</Text>
   <Text ID="3c">{C1}Selecione um máximo de três guerreiros para ir a batalha contra {Area}{C1}. {End}</Text>
@@ -99,13 +99,13 @@
   </Text>
   <Text ID="51">{C1}Comprar e vender items.{End}</Text>
   <Text ID="52">{C1}Investir ouro para promover. {End}</Text>
-  <Text ID="53">{C1}Combine two items to form a new item. {End}</Text>
+  <Text ID="53">{C1}Combine dois itens para formar um novo. {End}</Text>
   <Text ID="54">{C1}Relax in the forest to temporarily improve Warriors' stats.{End}</Text>
   <Text ID="55">{C1}Absorb a mysterious energy to temporarily improve Warriors' stats.{End}</Text>
   <Text ID="56">{C1}Train together with your Pokémon in order to raise their Energy. {End}</Text>
   <Text ID="57">{C1}Increase Pokémon's Energy by feeding them ponigiri.{End}</Text>
   <Text ID="58">{C1}Go panning in the River of Gold. {End}</Text>
-  <Text ID="59">{C1}Go mining for gold. {End}</Text>
+  <Text ID="59">{C1}vá minerar por ouro. {End}</Text>
   <Text ID="5a">{C1}Summon Pokémon using a mysterious electrical power.{End}</Text>
   <Text ID="5b">{C1}Use the airship to send Warriors to other kingdoms. {End}</Text>
   <Text ID="5c">{C1}Aceitar desafio.{End}</Text>
@@ -115,7 +115,7 @@
   <Text ID="60">{C1}Busca{End}</Text>
   <Text ID="61">{C1}Investir{End}</Text>
   <Text ID="62">{C1}Cancelar{End}</Text>
-  <Text ID="63">{C1}Stop delegating{End}</Text>
+  <Text ID="63">{C1}parar de delegar{End}</Text>
   <Text ID="64">{C1}Ver.{End}</Text>
   <Text ID="65">{C1}Parar.{End}</Text>
   <Text ID="66">{End}</Text>
