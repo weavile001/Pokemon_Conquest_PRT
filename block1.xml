@@ -5,9 +5,9 @@
   <Text ID="2">{C1}Set battle {Color:32}animation speed{Color:33}.{End}</Text>
   <Text ID="3">{C1}Set battle {Color:32}camera speed{Color:33}.{End}</Text>
   <Text ID="4">{C1}Configurações{End}</Text>
-  <Text ID="5">{C1}Message speed{End}</Text>
-  <Text ID="6">{C1}Message settings{End}</Text>
-  <Text ID="7">{C1}Sound{End}</Text>
+  <Text ID="5">{C1}Velocidade da mensagem{End}</Text>
+  <Text ID="6">{C1}Configurações das menssagens{End}</Text>
+  <Text ID="7">{C1}Som{End}</Text>
   <Text ID="8">{C1}Animação de Batalha{End}</Text>
   <Text ID="9">{C1}Square display{End}</Text>
   <Text ID="a">{C1}Fim de Turno{End}</Text>
@@ -60,8 +60,8 @@
   <Text ID="39">{C1}{Color:31}|02,3c,64{C1}{Color:33} will be deployed in {Area}{C1}.{End}</Text>
   <Text ID="3a">{C1}Você recrutou o numero maximo de guerreiros. Escolha um para dispensar.{End}</Text>
   <Text ID="3b">{C1}This time, all Warriors must be selected in order to go into battle.{End}</Text>
-  <Text ID="3c">{C1}Select a maximum of three Warriors to go into battle against {Area}{C1}. {End}</Text>
-  <Text ID="3d">{C1}Save data has not been deleted. The game cannot be saved.{End}</Text>
+  <Text ID="3c">{C1}Selecione um máximo de três guerreiros para ir a batalha contra {Area}{C1}. {End}</Text>
+  <Text ID="3d">{C1}Arquivo salvo não foi detectado. O jogo não pode ser salvo.{End}</Text>
   <Text ID="3e">{Name2}{C1} Se transformou!{End}</Text>
   <Text ID="3f">{Name2}{C1}'s {Color:31}|02,3c,64{C1}{Color:33} evoluiu em {Color:31}|02,3d,64{C1}{Color:33}!{End}</Text>
   <Text ID="40">{Name3}{C1}'s army's turn... {End}</Text>
@@ -80,7 +80,7 @@
     {C1}Salvando...
     {C1}não desligue o jogo ou retire o cartucho.{End}
   </Text>
-  <Text ID="4a">{C1}The Pokémon Conquest save data is corrupted and will be reformatted.{End}</Text>
+  <Text ID="4a">{C1}O arquivo salvo de Pokémon Conquest está corrompido e será reformado.{End}</Text>
   <Text ID="4b">
     {C1}Reformando o save...
     {C1}Não desligue o console ou retire or cartucho.{End}
