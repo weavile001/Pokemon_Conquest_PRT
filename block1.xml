@@ -6,7 +6,7 @@
   <Text ID="3">{C1}Set battle {Color:32}camera speed{Color:33}.{End}</Text>
   <Text ID="4">{C1}Configurações{End}</Text>
   <Text ID="5">{C1}Velocidade da mensagem{End}</Text>
-  <Text ID="6">{C1}Configurações das menssagens{End}</Text>
+  <Text ID="6">{C1}Configurações das mensagens{End}</Text>
   <Text ID="7">{C1}Som{End}</Text>
   <Text ID="8">{C1}Animação de Batalha{End}</Text>
   <Text ID="9">{C1}Square display{End}</Text>
