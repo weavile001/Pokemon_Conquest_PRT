@@ -22,7 +22,7 @@
   <Text ID="13">{C1}Voce tem certeza em começar essa batalha?{End}</Text>
   <Text ID="14">{C1}Continuar?{End}</Text>
   <Text ID="15">{C1}Você deseja salvar seu progresso?{End}</Text>
-  <Text ID="16">{C1}Quit this story and return to story selection?{End}</Text>
+  <Text ID="16">{C1}terminar essa historia e voltar a seleçao de historias?{End}</Text>
   <Text ID="17">{C1}Your save data has not been deleted, so you will be unable to save during play. Continue?{End}</Text>
   <Text ID="18">{C1}Chamar reforços?{End}</Text>
   <Text ID="19">{C1}Voce deseja cancelar a chamada de reforços?{End}</Text>
